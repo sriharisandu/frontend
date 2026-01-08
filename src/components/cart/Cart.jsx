@@ -69,7 +69,7 @@ const Cart = () => {
                       className="btn btn-sm btn-danger"
                       onClick={() => dispatch(removeFromCart(item.id))}
                     >
-                      ❌ Remove
+                      ❌ Remove from crat
                     </button>
                   </td>
                 </tr>
